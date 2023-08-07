@@ -1,0 +1,592 @@
+.commonpage .topbanner {
+    padding: 2em 0 3em;
+}
+.text-twotruncate
+{
+	display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.text-threetruncate
+{
+	display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.topbannertxt h1 {
+    color: #303841;
+    font-size: 62px;
+    font-weight: bold;
+}
+.topbannertxt p {
+    color: #303841;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 31px;
+    margin: 20px 0 10px;
+}
+.topbannertxt ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 3em;
+}
+.topbannertxt li {
+    display: inline-block;
+    background-color: #303841;
+    padding: 15px;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+.displayflex
+{
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.alllogin {
+    background-color: #303841;
+    border-radius: 92px 92px 0px 0px;
+    padding: 4em 0;
+}
+.alllogin .alllogintop {
+    padding-bottom: 4em;
+    border-bottom: 1px solid #ffffff2e;
+    margin-bottom: 4em;
+}
+.alllogin .allloginonetxt h3 {
+    color: #FFFFFF;
+    font-size: 34px;
+    font-weight: bold;
+    line-height: 62px;
+    margin: 0;
+}
+.alllogin .allloginonetxt p {
+    color: #FFFFFF;
+    font-size: 41px;
+    font-weight: bold;
+    line-height: 62px;
+    margin: 0;
+}
+.alllogin .allloginone h3 
+{
+	color: #FFFFFF;
+	font-size: 30px;
+	font-weight: bold;
+	margin: 0 0 15px;
+}
+.alllogin .allloginone a 
+{
+	color: #F6C92E;
+	font-size: 14px;
+	font-weight: bold;
+}
+.alllogin .allloginone a  img
+{
+	margin-left: 20px; 
+}
+
+.alllogin .alllogintwo h4
+{
+	color: #FFFFFF;
+	font-size: 42px;
+	font-weight: bold;
+	line-height: 55px;
+	margin: 1em 0;
+}
+.alllogin .alllogintwo p
+{
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 28px;
+}
+.alllogin .alllogintwo  img
+{
+	height: 44px;
+}
+.alllogin .allloginbottom1 a {
+    font-size: 21px;
+    color: #F6C92E;
+    text-transform: uppercase;
+    line-height: 31px;
+    font-weight:bold;
+}
+.alllogin .allloginbottom1 {
+    padding: 2em 2em 0;
+}
+.alllogin .allloginbottom1 img
+{
+	margin-left: 20px; 
+}
+.cls_sectionone {
+    padding: 6em 0 3em;
+    position: relative;
+}
+.cls_sectionone .cls_sectiononeimg {
+    height: 584px;
+    padding: 0
+}
+.cls_sectionone .cls_sectiononeimg img {
+    height: 100%;
+    border-radius: 50px;
+}
+.cls_sectionone .cls_sectiononetxt {
+    padding: 0 2em;
+}
+.cls_sectionone .cls_sectiononetxt h4 {
+    color: #303841;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 62px;
+}
+
+.cls_sectionone .cls_sectiononetxt p {
+    color: #303841;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 31px;
+}
+.cls_sectionbtm {
+    margin-top: -100px;
+}
+
+.cls_arriving .title h5 {
+    color: #303841;
+    font-size: 34px;
+    line-height: 62px;
+    font-weight: bold;
+}
+
+.cls_arriving .title h6 {
+    color: #303841;
+    font-size: 51px;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+.cls_arrivingin {
+    background: #EEEEEE 0% 0% no-repeat padding-box;
+    border-radius: 56px;
+    display: inline-block;
+    padding: 3em;
+}
+.cls_arrivingin h5{
+	color: #303841;
+	font-size:36px;
+	line-height: 62px;
+	font-weight: bold;
+}
+
+.cls_arrivingin p{
+	color: #303841
+	font-size:18px;
+	line-height: 31px;
+	font-weight: bold;
+}
+.cls_arrivingin img {
+    height: 50px;
+}
+.cls_driverone {
+    padding: 4em 0;
+}
+.cls_driveronetxt h3
+{
+    color: #000;
+    font-size: 34px;
+    line-height: 62px;
+    font-weight: bold;
+}
+.cls_driveronetxt p
+{
+    color: #000;
+    font-size: 51px;
+    line-height: 62px;
+    font-weight: bold;
+}
+.cls_driveronetwo
+{
+    background-color: #EEEEEE;
+    padding: 3em;
+    border-radius: 56px;
+}
+
+.cls_driveronetwo h4
+{
+   color: #303841;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.cls_driveronetwo p
+{
+    color: #303841;
+    font-size: 18px;
+    line-height: 31px;
+}
+.cls_dottedline .circle {
+    height: 48px;
+    border: 1px solid #F6C92E;
+    display: block;
+    width: 48px;
+    text-align: center;
+    background-color: #F6C92E;
+    border-radius: 100px;
+    font-size: 31px;
+    line-height: 47px;
+    color: #303841;
+        z-index: 2;
+    position: relative;
+        margin-left: 1em;
+}
+.cls_dottedline .line {
+    width: 68%;
+    border: 2px dashed rgb(0 0 0 / 21%);
+    position: absolute;
+    left: 50px;
+    top: 23px;
+    height: 0;
+}
+.cls_dottedline {
+    position: relative;
+    z-index: 2;
+    margin: 4em 0 2em;
+    display: inline-block;
+    width: 100%;
+}
+.cls_signin {
+    padding: 5em 0;
+}
+.cls_signin .cls_signintext {
+    background-color: #EEEEEE;
+    padding: 3em;
+    border-radius: 56px;
+}
+.cls_signin .title {
+    color: #303841;
+    font-size: 41px;
+    line-height: 62px;
+    margin: 0 0 1em 22px;
+    font-weight: bold;
+}
+.cls_signintext h4 
+{
+    color: #303841;
+    font-size: 30px;
+    line-height: 55px;
+    font-weight: bold;
+}
+.cls_signintext p 
+{
+    color: #303841;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: bold;
+    margin-bottom: 2em;
+}
+
+.cls_signintext a
+{
+    color: #F6C92E;
+    font-size: 21px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.cls_signintext img
+{
+    margin-left: 20px;
+}
+h1.cls_profiletitle {
+    margin: 0;
+    color: #F6C90E;
+    font-size: 27px;
+    line-height: 62px;
+    font-weight: bold;
+}
+.paymentpage {
+    display: inline-block;
+    width: 100%;
+    padding: 15px 0;
+    border-width: 1px 0 1px 0;
+    border-color: rgb(112 112 112 / 20%);
+    border-style: solid;
+}
+.paymentpage small
+{
+    color: #303841;
+    font-size: 17px;
+    line-height: 45px;
+}
+.paymentpage label
+{
+    color: #303841;
+    font-size: 31px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.paymentpage small.pull-right.pull-left-sm 
+{
+    color: #303841;
+    font-size: 14px;
+    line-height: 37px;
+}
+.cls_paymentpage .form-control
+{
+    color: #303841 !important;
+    font-weight: bold !important;
+    font-size: 15px !important;
+}
+.pay_period_details .bor-left {
+    background-color: #EEEEEE;
+    border-radius: 10px;
+    padding:2em 3em;
+    border: unset;
+    display: inline-block;
+    width: 100%;
+}
+.pay_period_details .bor-left  small
+{
+    font-size: 28px;
+}
+.pay_period_details .bor-left  small
+{
+    font-size: 18px;
+    line-height: 21px
+    color:#303841;
+}
+.cls_table thead tr th {
+    padding: 15px 0;
+    font-size: 19px;
+    color: #3A4750;
+    line-height: 22px;
+}
+.cls_table tbody tr td {
+    padding: 15px 0;
+    font-size: 19px;
+    color: #3A4750;
+    line-height: 22px;
+    font-weight: 100;
+}
+.cls_table tbody tr {
+    border-width: 1px 0 1px 0;
+    border-style: solid ;
+    border-color: rgb(112 112 112 / 20%);
+}
+.pagination > li > a, .pagination > li > span
+{
+    background-color: #EEEEEE;
+    color: #3A4750;
+    border-color: #EEEEEE !important;
+    border-radius: 10px !important;
+    font-size: 17px;
+}
+.pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus
+{
+    background-color: #EEEEEE;
+    border-color: #EEEEEE;
+    color: #3A4750;
+}
+.cls_litags a.custom-clas {
+    display: inline-block;
+    position: relative;
+    padding: 7px 20px 7px 7px;
+    background-color: #f6c90f;
+    border-radius: 10px;
+}
+.cls_litags .filter-checked {
+    font-size: 17px;
+}
+.cls_litags .icon_delete {
+    position: absolute;
+    top: 14px;
+    right: 7px;
+    font-size: 13px;
+}
+.pr-0
+{
+    padding-right: 0 !important;
+}
+img
+{
+    max-width: 100%;
+}
+.footertwolinks2
+{
+    justify-content: flex-end;
+}
+.signup-wrapper.cls_signuprider {
+    background-color: #EEEEEE;
+    border-radius: 56px;
+    padding-bottom: 1em;
+}
+.cls_signuprider .form-control {
+    background-color: #fff !important;
+    border-radius: 10px !important;
+}
+.cls_signuprider .select.select--xl
+{
+    background-color: #fff !important;
+    border-radius: 10px !important;
+}
+.cls_signuprider i 
+{
+    color: #303841 !important;
+}
+.cls_driversignup .driverform {
+    background-color: #fff;
+    padding: 1em 2em;
+    border-radius: 30px;
+    display: inline-block;
+}
+.cls_lefttext h1 {
+    font-size: 61px;
+    color: #fff;
+    margin-bottom: 30px;
+}
+.cls_lefttext p {
+    font-size: 21px;
+    color: #fff;
+    margin-bottom: 30px;
+    line-height: 30px;
+}
+.driverform .forminput {
+    margin-bottom: 15px;
+    display: inline-block;
+    width: 100%;
+}
+.cls_driversignup h3.cls_title {
+    text-align: center;
+    margin: 0 0 30px;
+}
+.driverform .mobile-code #select-title-stage
+{
+    padding: 12px 15px;
+    position: inherit;
+    background-color: #fff;
+    opacity: 1;
+    border: 1px solid #C7C7C7 !important;
+    border-right: none;
+    width: 100%;
+    border-radius: 10px;
+}
+.cls_arrivinginatag
+{
+    color: #F6C92E;
+    font-size:21px; 
+    font-weight: bold;
+}
+.cls_arrivinginatag img
+{
+    width: 60px;
+    padding-left: 30px;
+}
+@media screen and (max-width: 767px) { 
+img
+{
+    max-width: 100%;
+}
+.topbannertxt ul
+{
+    display: flex;
+    align-items: center;
+}
+.allloginone {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.alllogin .alllogintop {
+    padding-bottom: 2em;
+}
+.alllogintwo
+{
+    margin-bottom: 3em;
+}
+.cls_sectionone
+{
+    padding: 3em 0;
+}
+.cls_sectionone .cls_sectiononeimg {
+    height: auto;
+    padding: 10px;
+}
+.cls_sectionbtm {
+    margin-top: 0;
+    flex-direction: column-reverse;
+}
+.cls_arrivingin
+{
+    margin-bottom: 3em;
+}
+
+.cls_footer
+{
+    text-align: center;
+}
+.threelinks li {
+    display: inline-block;
+    margin: 0 15px;
+}
+.footertwolinks, .footertwolinks1, .footertwolinks2 {
+    text-align: center;
+}
+.footertwolinks ul , .footertwolinks1 ul{
+    justify-content: center;
+    padding: 0;
+}
+.footertwolinks li {
+    margin: 20px 0 10px;
+    width: calc(100% / 2);
+}
+.footertwolinks1 li {
+    margin: 7px 15px;
+    margin-left: 0;
+}
+.footertwolinks2
+{
+    justify-content: center;
+}
+.threelinks1 li {
+    margin: 10px 0;
+}
+.logo-link img
+{
+    margin-top: 7px !important;
+}
+.nav-list-one li {
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+.cls_dottedline
+{
+    display: none;
+}
+.cls_driveronetwo
+{
+    margin-top: 30px;
+}
+.cls_signin {
+    padding: 0;
+}
+.cls_signin .cls_signintext {
+    padding: 2em;
+    margin-bottom: 20px;
+}
+.sigin-riders {
+    padding-top: 0;
+}
+.cls_driversignup .driverform
+{
+    padding: 1em;
+}
+.cls_driversignup .pad-0
+{
+    padding: 0;
+}
+.cls_driversignup .cls_lefttextin
+{
+    display: none;
+}
+}
