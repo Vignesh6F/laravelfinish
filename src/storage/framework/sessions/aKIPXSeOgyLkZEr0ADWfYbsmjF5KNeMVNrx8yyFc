@@ -1,1 +1,1 @@
-a:3:{s:6:"_token";s:40:"A646vJQy9HZ34SRZJMhgxANjkAjrEMdgDF7269cz";s:9:"_previous";a:1:{s:3:"url";s:38:"http://localhost:8000/install/settings";}s:6:"_flash";a:2:{s:3:"old";a:0:{}s:3:"new";a:0:{}}}
+a:6:{s:8:"currency";s:3:"USD";s:6:"symbol";s:1:"$";s:8:"language";s:2:"en";s:6:"_token";s:40:"A646vJQy9HZ34SRZJMhgxANjkAjrEMdgDF7269cz";s:9:"_previous";a:1:{s:3:"url";s:35:"http://localhost:8000/install/final";}s:6:"_flash";a:2:{s:3:"old";a:0:{}s:3:"new";a:0:{}}}
